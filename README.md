@@ -1,7 +1,6 @@
 <div align="center">
   <h2>박해구</h2>
 
-  <hr>
 
   ![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
 
