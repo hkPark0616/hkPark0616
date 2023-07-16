@@ -8,6 +8,8 @@
   <h3>Baekjoon</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrgorn3617&layout=compact&theme=tokyonight)
 </div>
 
 
