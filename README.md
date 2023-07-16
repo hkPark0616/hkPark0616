@@ -18,7 +18,7 @@
 
   <h3>🌟 Most Used Languages</h3>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&theme=tokyonight&exclude_repo=shopping_review_analysis)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&theme=tokyonight&include_repo=shopping_review_analysis)
 
   <br>
 
