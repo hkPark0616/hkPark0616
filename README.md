@@ -21,6 +21,10 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&theme=tokyonight)
 
   <br>
+
+  <h3>🌟 Studying</h3>
+  <img src="https://img.shields.io/badge/Node.js-#339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
 
