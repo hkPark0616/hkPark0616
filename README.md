@@ -1,4 +1,14 @@
-# 박해구
+<div align="center">
+  # 박해구
+
+  <hr>
+
+  ![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
+
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
+</div>
+
 
 <!--
 **hkPark0616/hkPark0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
