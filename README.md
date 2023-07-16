@@ -23,7 +23,7 @@
   <br>
 
   <h3>🌟 Studying</h3>
-  <img src="https://img.shields.io/badge/Nodejs-#339933?style=for-the-badge&logo=Nodejs&logoColor=white">
+  <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
 
