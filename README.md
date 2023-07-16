@@ -1,11 +1,11 @@
 <div align="center">
   <h1>박해구</h1>
 
-  <h3>GitHub Stats</h3>
+  <h3>🌟 GitHub Stats</h3>
   
   ![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
 
-  <h3>Baekjoon</h3>
+  <h3>🌟 Baekjoon</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
 
