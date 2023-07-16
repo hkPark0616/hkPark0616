@@ -20,7 +20,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&theme=tokyonight)
 
   <br>
 
