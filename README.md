@@ -5,13 +5,19 @@
   
   ![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
 
+  <br>
+
   <h3>🌟 Baekjoon</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
 
+  <br>
+
   <h3>🌟 Most Used Languages</h3>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&layout=compact&theme=tokyonight)
+
+  <br>
 </div>
 
 
