@@ -23,8 +23,8 @@
   <br>
 
   <h3>🌟 Studying</h3>
-  <img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
   
 </div>
 
