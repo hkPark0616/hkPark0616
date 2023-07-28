@@ -39,7 +39,6 @@
 
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **hkPark0616/hkPark0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
