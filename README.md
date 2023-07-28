@@ -36,9 +36,10 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
   
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+
 </div>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **hkPark0616/hkPark0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
