@@ -42,9 +42,16 @@
 
 
 
-  | 한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품 | Node.js를 활용한 CRUD 게시판 |
-  |------------|------------|
-  | [![shopping_review_analysis](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis) | [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js)](https://github.com/hkPark0616/Node.js) |
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td align="center">한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품</td>
+      <td align="center">Node.js를 활용한 CRUD 게시판</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/KIMHYUNSOO1999/shopping_review_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis" alt="한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품"></a></td>
+      <td><a href="https://github.com/hkPark0616/Node.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js" alt="Node.js를 활용한 CRUD 게시판"></a></td>
+    </tr>
+</table>
   
 </div>
 
