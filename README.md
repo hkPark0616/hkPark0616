@@ -43,10 +43,11 @@
 
 </div>
 <div>
-    
-  [![shopping_review_analysis](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis)
+    | 레포지토리 1 | 레포지토리 2 |
+    |------------|------------|
+    | [![shopping_review_analysis](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis) | [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js)](https://github.com/hkPark0616/Node.js) |
   
-  [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js)](https://github.com/hkPark0616/Node.js)
+    
   
 </div>
 
