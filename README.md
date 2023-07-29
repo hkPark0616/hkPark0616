@@ -1,8 +1,3 @@
-<style>
-  td, th {
-     border: none!important;
-  }
-</style>
 <br>
 <div align="center">
   <h1>박해구</h1>
