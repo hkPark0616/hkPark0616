@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
   
+  [![테스트](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis)
 
 </div>
 
