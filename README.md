@@ -1,3 +1,8 @@
+<style>
+  td, th {
+     border: none!important;
+  }
+</style>
 <br>
 <div align="center">
   <h1>박해구</h1>
@@ -40,11 +45,7 @@
 
   <h3>🌟 Project </h3>
 
-  <style>
-    td, th {
-       border: none!important;
-    }
-  </style>
+
 
   | 한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품 | Node.js를 활용한 CRUD 게시판 |
   |------------|------------|
