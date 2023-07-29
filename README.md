@@ -52,7 +52,9 @@
     <td style="border: none;"><a href="https://github.com/hkPark0616/Node.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js" alt="Node.js를 활용한 CRUD 게시판"></a></td>
   </tr>
 </table>
-  
+
+  [![한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis) [![Node.js를 활용한 CRUD 게시판](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js)](https://github.com/hkPark0616/Node.js)
+
 </div>
 
 
