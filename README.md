@@ -42,7 +42,7 @@
 
 
 
-  <table style="border-collapse: collapse;">
+  <table style="border-collapse: collapse; border:none">
     <tr>
       <td align="center">한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품</td>
       <td align="center">Node.js를 활용한 CRUD 게시판</td>
