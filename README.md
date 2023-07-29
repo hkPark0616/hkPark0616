@@ -41,6 +41,8 @@
   <h3>🌟 Project</h3>
   
   [![shopping_review_analysis](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis)
+  
+  [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js)](https://github.com/hkPark0616/Node.js)
 
 </div>
 
