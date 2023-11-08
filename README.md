@@ -54,6 +54,7 @@
   
   | 🔸Spring Boot Practice |
   |------------|
+  |            |
 
 </div>
 
