@@ -47,7 +47,7 @@
   |------------|------------|
   | [![shopping_review_analysis](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis) | [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Node.js) |
 
-  | 🔸스프링부트 개인 포트폴리오 사이트 |  |
+  | 🔸스프링부트 개인 포트폴리오 사이트 | ... |
   |------------|------------|
   | [![Spring-Boot-Project](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Project) |  |
 
