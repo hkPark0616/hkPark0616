@@ -43,7 +43,7 @@
 
 
 
-  | 🔸한라대학교 캡스톤디자인, 컴퓨터공학과 졸업작품 | 🔸Node.js를 활용한 CRUD 게시판 |
+  | 🔸한라대학교 컴퓨터공학과 졸업작품(웹 프론트, 백엔드, DB 담당) | 🔸Node.js를 활용한 CRUD 게시판 |
   |------------|------------|
   | [![shopping_review_analysis](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=shopping_review_analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/KIMHYUNSOO1999/shopping_review_analysis) | [![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Node.js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Node.js) |
 
