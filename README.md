@@ -50,17 +50,15 @@
   | 🔸Spring boot 개인 포트폴리오 사이트 | 🔸Flutter 게시판 애플리케이션(진행중) |
   |------------|------------|
   | [![Spring-Boot-Project](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Project) | [![Flutter_project](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Flutter_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Flutter_project) |
-  <!-- [![FlutterApp](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=FlutterApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/FlutterApp)-->
 
-Flutter_project
   <br>
 
   <h3>🌟 Practice </h3>
 
   
-  | 🔸Spring Boot Practice |
-  |------------|
-  | [![Spring Boot Practice](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Practice) |
+  | 🔸Spring Boot Practice | 🔸Flutter Practice |
+  |------------|------------|
+  | [![Spring Boot Practice](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Practice) | [![FlutterApp](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=FlutterApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/FlutterApp) |
 
 </div>
 
