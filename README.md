@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
 
   <br>
