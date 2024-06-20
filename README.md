@@ -23,7 +23,7 @@
 
   <br>
 
-  <h3>🌟 Studying</h3>
+  <h3>🌟 Stacks</h3>
   <img src="https://img.shields.io/badge/SpringBoot-success?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Node.js&logoColor=white">
