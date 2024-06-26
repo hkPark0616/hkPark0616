@@ -50,7 +50,7 @@
 
   | 🔸Spring boot 개인 포트폴리오 사이트 | 🔸Flutter 애플리케이션 |
   |------------|------------|
-  | [![Spring-Boot-Project](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Project) |  |
+  | [![Spring-Boot-Project](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Project) | [![Flutter_project](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Flutter_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Flutter_project) |
 
   <br>
 
