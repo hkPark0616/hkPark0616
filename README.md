@@ -1,9 +1,8 @@
 <br>
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/qkrgorn3617" width="600" height="300"/></a>
-
 
 <div align="center">
   <h1>박해구</h1>
+  <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/qkrgorn3617" width="600" height="300"/></a>
 
   <br>
 
