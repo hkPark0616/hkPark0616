@@ -31,26 +31,28 @@
 
   <h3>🌟 Team Project </h3>
 
-  <table style="padding: 0px 100px;">
-    <tr>
-      <td>
-        <a href="https://github.com/zipchack" target="_blank">
-          <img src="https://github.com/zipchack.png" alt="zipchack" width="150px" style="border-radius: 12px;">
-        </a>
-      </td>
-      <td style="padding-left: 10px; max-width: 450px;">
-        <b>
-          <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 23px">
-            집착 (Zipchack) - 입지 기반 부동산 정보 제공 서비스
+  <div style="width: 80%">
+    <table>
+      <tr>
+        <td>
+          <a href="https://github.com/zipchack" target="_blank">
+            <img src="https://github.com/zipchack.png" alt="zipchack" width="150px" style="border-radius: 12px;">
           </a>
-        </b>
-        <p style="margin: 6px 0;">
-          <strong>집착(Zipchack)</strong>은 사용자가 원하는 아파트와 동네를 쉽게 찾을 수 있도록 도와주는 입지 기반 부동산 정보 제공 서비스입니다.
-          매매 정보, 지역별 통계, 학군 및 편의시설 정보 제공은 물론, 관심 지역과 매물 간의 거리까지 직관적으로 확인할 수 있습니다.
-        </p>
-      </td>
-    </tr>
-  </table>
+        </td>
+        <td style="padding-left: 10px; max-width: 450px;">
+          <b>
+            <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 23px">
+              집착 (Zipchack) - 입지 기반 부동산 정보 제공 서비스
+            </a>
+          </b>
+          <p style="margin: 6px 0;">
+            <strong>집착(Zipchack)</strong>은 사용자가 원하는 아파트와 동네를 쉽게 찾을 수 있도록 도와주는 입지 기반 부동산 정보 제공 서비스입니다.
+            매매 정보, 지역별 통계, 학군 및 편의시설 정보 제공은 물론, 관심 지역과 매물 간의 거리까지 직관적으로 확인할 수 있습니다.
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 
   <h3>🌟 Toy Project </h3>
