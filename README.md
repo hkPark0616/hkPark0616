@@ -31,7 +31,7 @@
 
   <h3>🌟 Team Project </h3>
 
-  <table width="650">
+  <table width="80%">
     <tr>
       <td>
         <a href="https://github.com/zipchack" target="_blank">
