@@ -31,14 +31,14 @@
 
   <h3>🌟 Team Project </h3>
 
-  <table>
+  <table width="650">
     <tr>
       <td>
         <a href="https://github.com/zipchack" target="_blank">
           <img src="https://github.com/zipchack.png" alt="zipchack" width="150px" style="border-radius: 12px;">
         </a>
       </td>
-      <td style="padding-left: 10px; max-width: 400px;">
+      <td style="padding-left: 10px; max-width: 450px;">
         <b>
           <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 23px">
             집착 (Zipchack) - 입지 기반 부동산 정보 제공 서비스
