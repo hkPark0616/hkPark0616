@@ -31,7 +31,7 @@
 
   <h3>🌟 Team Project </h3>
 
-  <div style="width: 80%">
+  <div style="width:650px;">
     <table>
       <tr>
         <td>
