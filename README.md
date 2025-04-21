@@ -5,17 +5,11 @@
   
   <br>
 
-  <h3>🌟 GitHub Stats</h3>
+  <!-- <h3>🌟 GitHub Stats</h3>
   
   ![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
 
-  <br>
-
-  <h3>🌟 Baekjoon</h3>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
-
-  <br>
+  <br> -->
 
   <h3>🌟 Most Used Languages</h3>
   
@@ -41,9 +35,31 @@
 
   <br>
 
-  <h3>🌟 Project </h3>
+  <h3>🌟 Team Project </h3>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/zipchack" target="_blank">
+          <img src="https://github.com/zipchack.png" alt="zipchack" width="150px" style="border-radius: 12px;">
+        </a>
+      </td>
+      <td style="padding-left: 10px; max-width: 600px;">
+        <b>
+          <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 20px">
+            집착 (Zipchack) - 입지 기반 부동산 정보 제공 서비스
+          </a>
+        </b>
+        <p style="margin: 6px 0;">
+          <strong>집착(Zipchack)</strong>은 사용자가 원하는 아파트와 동네를 쉽게 찾을 수 있도록 도와주는 입지 기반 부동산 정보 제공 서비스입니다.
+          매매 정보, 지역별 통계, 학군 및 편의시설 정보 제공은 물론, 관심 지역과 매물 간의 거리까지 직관적으로 확인할 수 있습니다.
+        </p>
+      </td>
+    </tr>
+  </table>
 
 
+  <h3>🌟 Toy Project </h3>
 
   | 🔸캡스톤디자인 졸업작품(웹 프론트엔드, 백엔드, DB 담당) | 🔸Node.js를 활용한 CRUD 게시판 |
   |------------|------------|
@@ -62,26 +78,12 @@
   |------------|------------|
   | [![Spring Boot Practice](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=Spring-Boot-Practice&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/Spring-Boot-Practice) | [![FlutterApp](https://github-readme-stats.vercel.app/api/pin/?username=hkPark0616&repo=FlutterApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/hkPark0616/FlutterApp) |
 
+  
+  <br>
+
+  <h3>🌟 Algorithm </h3>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qkrgorn3617)](https://solved.ac/qkrgorn3617)
+
+  <br>
 </div>
-
-
-  
-    
-  
-
-
-<!--
-**hkPark0616/hkPark0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
