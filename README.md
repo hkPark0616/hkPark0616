@@ -33,29 +33,8 @@
 
 | <a href="https://github.com/zipchack" target="_blank"><img src="https://github.com/zipchack.png" width="200"/></a> | <a href="https://github.com/AEOB-NAVI" target="_blank"><img src="https://github.com/user-attachments/assets/c93b560b-5e07-4658-9c12-906035e3f4a7" width="200"/></a> |
 |:---:|:---:|
-| **[집착 (Zipchack)](https://github.com/zipchack)**<br>입지 기반 부동산 정보 제공 서비스 | **[Navi ( 꿈을 위한 길라잡이 )](https://github.com/AEOB-NAVI)**<br>입지 기반 부동산 정보 제공 서비스 |
+| **[집착 (Zipchack)](https://github.com/zipchack)**<br>입지 기반 부동산 정보 제공 서비스 | **[Navi ( 꿈을 위한 길라잡이 )](https://github.com/AEOB-NAVI)**<br>자격증 종합 정보 제공 및 추천 & 스터디룸 서비스 |
 | 사용자가 원하는 아파트와 동네를 쉽게 찾을 수 있도록 도와주는 부동산 정보 제공 서비스입니다. 매매 정보, 지역 통계, 학군, 편의시설 정보, 거리 분석까지 지원합니다. | **NAVI**는 사용자의 희망 직무에 따라 필요한 자격증을 추천하고, 목표 자격증별 스터디룸 기능을 통해 취준생들과 함께 공부할 수 있는 공간을 제공합니다. <br>여러분의 꿈을 응원하는 NAVI에서 취업 준비의 한 걸음을 내딛어보세요! |
-
-
-
-<!-- 
-  <table align="center" style="table-layout: fixed; width: 100%; max-width: 650px;">
-    <tr>
-      <td style="width: 150px;">
-        <a href="https://github.com/zipchack" target="_blank">
-          <img src="https://github.com/zipchack.png" alt="zipchack" width="120px" style="border-radius: 8px;">
-        </a>
-      </td>
-      <td style="padding-left: 12px; word-break: break-word; font-size: 15px;">
-        <b>
-          <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 18px;">
-            집착 (Zipchack) - 입지 기반 부동산 정보 제공 서비스
-          </a>
-        </b>
-        
-      </td>
-    </tr>
-  </table> -->
 
 
   <h3>🌟 Toy Project </h3>
