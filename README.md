@@ -5,12 +5,6 @@
   
   <br>
 
-  <!-- <h3>🌟 GitHub Stats</h3>
-  
-  ![hkPark0616's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkPark0616&show_icons=true&theme=gruvbox)
-
-  <br> -->
-
   <h3>🌟 Most Used Languages</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkPark0616&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,9 +38,9 @@
           <img src="https://github.com/zipchack.png" alt="zipchack" width="150px" style="border-radius: 12px;">
         </a>
       </td>
-      <td style="padding-left: 10px; max-width: 600px;">
+      <td style="padding-left: 10px; max-width: 400px;">
         <b>
-          <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 20px">
+          <a href="https://github.com/zipchack" target="_blank" style="text-decoration: none; color: inherit; font-size: 23px">
             집착 (Zipchack) - 입지 기반 부동산 정보 제공 서비스
           </a>
         </b>
