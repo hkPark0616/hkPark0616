@@ -1,5 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=박해구's%20Github&fontAlign=70&fontColor=FFFFFF&fontSize=45&fontAlignY=40&color=gradient&customColorList=20)
 
+<br />
+
+<h1>👋 배움과 개발의 과정들을 담은 저장소입니다.</h1>
+
+<br /><br />
+
+# 🎯 Activities
+
+| Period                  | Activity Name                                                               | Type        | Description                              |
+| ----------------------- | --------------------------------------------------------------------------- | ----------- | ---------------------------------------- |
+| 2024.07 ~ 현재          | [삼청 청년 SW 아카데미 12기](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) | Bootcamp    | 자바 전공반                              |
+| 2023.11.03 ~ 2023.11.04 | [2023 SW 인재 페스티벌](https://swfestival2023.kr/2023/)                    | Competition | 쇼핑몰 리뷰 분석을 통한 제품 추천 서비스 |
+
+<br />
+
+# 🏆 Awards
+
+| Date    | Description                                             | Organizer / Host                                       |
+| ------- | ------------------------------------------------------- | ------------------------------------------------------ |
+| 2024.11 | 삼성 청년 SW 아카데미 12기 1학기 관통 프로젝트 최우수상 | [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) |
+
+<br />
+
+# 📄 Certifications
+
+| Issued Date | Certificate Name   | Organizer / Issuer |
+| ----------- | ------------------ | ------------------ |
+| 2023.06     | 정보처리기사       | 한국산업인력공단   |
+| 2021.12     | 컴퓨터활용능력 1급 | 대한상공회의소     |
+
+<br />
+
 # 🚀 Project
 
 ## Team Project
